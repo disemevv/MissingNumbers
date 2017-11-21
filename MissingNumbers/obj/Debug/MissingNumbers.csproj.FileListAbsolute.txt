@@ -1,0 +1,11 @@
+D:\0. Diana\MissingNumbers\MissingNumbers\MissingNumbers\bin\Debug\MissingNumbers.exe.config
+D:\0. Diana\MissingNumbers\MissingNumbers\MissingNumbers\bin\Debug\MissingNumbers.exe
+D:\0. Diana\MissingNumbers\MissingNumbers\MissingNumbers\bin\Debug\MissingNumbers.pdb
+D:\0. Diana\MissingNumbers\MissingNumbers\MissingNumbers\obj\Debug\MissingNumbers.csprojResolveAssemblyReference.cache
+D:\0. Diana\MissingNumbers\MissingNumbers\MissingNumbers\obj\Debug\MissingNumbers.frmMissingNumbers.resources
+D:\0. Diana\MissingNumbers\MissingNumbers\MissingNumbers\obj\Debug\MissingNumbers.Properties.Resources.resources
+D:\0. Diana\MissingNumbers\MissingNumbers\MissingNumbers\obj\Debug\MissingNumbers.csproj.GenerateResource.Cache
+D:\0. Diana\MissingNumbers\MissingNumbers\MissingNumbers\obj\Debug\MissingNumbers.exe
+D:\0. Diana\MissingNumbers\MissingNumbers\MissingNumbers\obj\Debug\MissingNumbers.pdb
+D:\0. Diana\MissingNumbers\MissingNumbers\MissingNumbers\bin\Debug\MissingNumbers.Business.dll
+D:\0. Diana\MissingNumbers\MissingNumbers\MissingNumbers\bin\Debug\MissingNumbers.Business.pdb

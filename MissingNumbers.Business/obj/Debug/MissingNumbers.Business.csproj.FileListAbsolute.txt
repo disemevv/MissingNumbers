@@ -1,0 +1,5 @@
+D:\0. Diana\MissingNumbers\MissingNumbers\MissingNumbers.Business\bin\Debug\MissingNumbers.Business.dll
+D:\0. Diana\MissingNumbers\MissingNumbers\MissingNumbers.Business\bin\Debug\MissingNumbers.Business.pdb
+D:\0. Diana\MissingNumbers\MissingNumbers\MissingNumbers.Business\obj\Debug\MissingNumbers.Business.dll
+D:\0. Diana\MissingNumbers\MissingNumbers\MissingNumbers.Business\obj\Debug\MissingNumbers.Business.pdb
+D:\0. Diana\MissingNumbers\MissingNumbers\MissingNumbers.Business\obj\Debug\MissingNumbers.Business.csprojResolveAssemblyReference.cache
