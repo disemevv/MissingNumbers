@@ -20,6 +20,8 @@ namespace MissingNumbers.Business
             int[] A = new int[cons.XSIZE];
             int[] B = new int[cons.XSIZE];
             int x = 0;
+            int xmin = 0;
+            int xmax = 0;
             bool isNum = true;
 
             for (int i = 0; i < n; i++)
@@ -28,6 +30,12 @@ namespace MissingNumbers.Business
                 if (isNum && x <= cons.XSIZE)
                 {
                     A[x]++;
+                    if (i == 0)
+                        xmin = x;
+                    if (x < xmin)
+                        xmin = x;
+                    if (x > xmax)
+                        xmax = x;
                 }
                 else
                 {
@@ -42,6 +50,12 @@ namespace MissingNumbers.Business
                 if (isNum && x <= cons.XSIZE)
                 {
                     B[x]++;
+                    if (i == 0)
+                        xmin = x;
+                    if (x < xmin)
+                        xmin = x;
+                    if (x > xmax)
+                        xmax = x;
                 }
                 else
                 {
@@ -52,7 +66,7 @@ namespace MissingNumbers.Business
 
             if (msg == string.Empty)
             {
-                for (int i = 0; i < cons.XSIZE; i++)
+                for (int i = xmin; i <= xmax; i++)
                 {
                     if (B[i] > A[i])
                         sbResult.Append(string.Concat(i, " "));
